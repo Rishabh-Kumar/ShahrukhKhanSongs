@@ -1,0 +1,513 @@
+{
+  "project_info": {
+    "project_number": "756488016400",
+    "firebase_url": "https://songs-videos-apps.firebaseio.com",
+    "project_id": "songs-videos-apps",
+    "storage_bucket": "songs-videos-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:acc0646db5d6d3a1",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.ammyvirksongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-fdo37gg6o6ofsh4gcenrcg7missjp1ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.ammyvirksongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:5c03977d1ffe61b4",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.arijitsinghsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-ejdrt9c2mm9mrtnkpdfqt2jbebcbnjr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.arijitsinghsongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:dc026ff6f1544707",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.atifaslamsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-v0ks3g3ajka18nodm9vtcii6l5r3rhu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.atifaslamsongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:5e10427585b0e79d",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.gururandhawasongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:bcf39fd6758d7fb4",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.shahrukhkhansongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-3vkb61tv5nm0voddsrqq6n18lbtqpfds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.shahrukhkhansongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:d4ab96fecdbf5003",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.shreyaghoshalsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-qkqbq6l29rqrj3o5f4iigfefiq57maiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.shreyaghoshalsongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:a98f6a5c6c703da9",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.sidhumoosewaalasongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-m58lmhqk8rnr8svl4e127dqd9l0r1hk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.sidhumoosewaalasongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:a87581a64fcbb99a",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.songs_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:4535ba07f3897065",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.sonuketitukisweetysongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-mu20h6jis6aurs3jffj1vi5tpoddo7u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.sonuketitukisweetysongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:8b3fe830e69c710d",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.suidhaagasongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-oc2op7l80uuc7tgm5hk4gqhuhk79v9co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.suidhaagasongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:d2155427af689147",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.sunidhichauhansongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-cnvdsvk5rrubfda02gmm74n2r3ivalpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.sunidhichauhansongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756488016400:android:fae37289c24417ca",
+        "android_client_info": {
+          "package_name": "com.hackdevelopers.sunnyleonesongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756488016400-5ic34cqskrbvjuoobc1ra3o2951i2gmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdevelopers.sunnyleonesongs",
+            "certificate_hash": "cc45f6554c6b4644e443945115cc5f947cd3ec68"
+          }
+        },
+        {
+          "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhGfg9CMltEKGCdC1qg8ATh6gzaMfpE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756488016400-r3ibvr8agrjb3pr492fcvhdt1uvhq11h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

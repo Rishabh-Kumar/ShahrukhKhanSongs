@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate_us"
+            android:title="@string/action_rate_us" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/ic_more"
+            android:title="@string/more" />
+
+    </group>
+
+    <item android:title="Request App">
+        <menu>
+            <item android:title="Artist"
+                android:id="@+id/action_request_artist"
+                android:icon="@drawable/ic_artist"/>
+            <item android:title="Movie"
+                android:id="@+id/action_request_movie"
+                android:icon="@drawable/ic_movie"/>
+            <item android:title="Singer"
+                android:id="@+id/action_request_singer"
+                android:icon="@drawable/ic_singer"/>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/action_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/action_feedback" />
+        </menu>
+    </item>
+
+</menu>
